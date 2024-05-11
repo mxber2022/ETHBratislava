@@ -1,38 +1,38 @@
 # ETHBratislava
 
+## Scaling Ethereum 1 - Deployed Rollups
 
-Scaling Ethereum 1 - Deployed Rollups
+**RollupName:** EBratislava  
+**FrameWork:** Opstack  
+**Settlement layer:** Ethereum L1  
+**Data availability:** EigenDA  
 
-RollupName - EBratislava
-FrameWork - Opstack
-Settlement layer - Ethereum L1
-Data availability - EigenDA
+EigenDA features:
 
-EigenDA 
-- helps to lower data availability cost and transaction fees
-- eigen layer economic security
-- 100x higher throughput
-- 100x cheaper gas fees
+- Lowers data availability cost and transaction fees  
+- Eigen layer economic security  
+- 100x higher throughput  
+- 100x cheaper gas fees  
 
 EigenDA is an innovative solution designed to store rollup transactions until their computed state is finalized on the rollup bridge. It distinguishes itself through several core features:
 
-EigenDA boasts exceptional scalability, with its write throughput scaling linearly with the number of operators. At launch, it will deliver a remarkable 10 MB/s of write throughput, surpassing competitors by a factor of 5.
+1. **Scalability:** EigenDA boasts exceptional scalability, with its write throughput scaling linearly with the number of operators. At launch, it will deliver a remarkable 10 MB/s of write throughput, surpassing competitors by a factor of 5.
 
-Security is a top priority for EigenDA, as it operates on a decentralized network composed of hundreds of registered operators within EigenLayer. These operators' delegated stake imposes an economic cost to misbehavior, ensuring the system's integrity. EigenDA will be backed by billions of dollars of economic security upon launch.
+2. **Security:** Security is a top priority for EigenDA, as it operates on a decentralized network composed of hundreds of registered operators within EigenLayer. These operators' delegated stake imposes an economic cost to misbehavior, ensuring the system's integrity. EigenDA will be backed by billions of dollars of economic security upon launch.
 
-Inspired by Danksharding, EigenDA's design aims to surpass the limitations of Ethereum-native decentralized applications (DA) outlined in EIP-4844. It achieves decentralization by registering blob writes with contracts on Ethereum, subjecting operators to slashing risks. This approach eliminates the need for trust assumptions on other chains' light clients, which can be vulnerable to manipulation by dishonest validator sets.
+3. **Decentralization:** Inspired by Danksharding, EigenDA's design aims to surpass the limitations of Ethereum-native decentralized applications (DA) outlined in EIP-4844. It achieves decentralization by registering blob writes with contracts on Ethereum, subjecting operators to slashing risks. This approach eliminates the need for trust assumptions on other chains' light clients, which can be vulnerable to manipulation by dishonest validator sets.
 
 In essence, EigenDA represents a groundbreaking advancement in the storage of rollup transactions, offering unparalleled scalability, security, and decentralization.
 
+## Scaling Ethereum 2 - L3 orbit chain
 
-Scaling Ethereum 2 - L3 orbit chain
+- **Chain Id:** 59463755459  
+- **Chain Name:** Bratislava  
+- **Challenge Period Blocks:** #150  
+- **Gas Token:** ETH  
+- **Batch Poster Address:** 0x7f5814E1ebcAbB3BB38cA4c9eBe3EeC83321d0ca  
+- **Validator:** 0x9c91EDae3Be3EA69D8A1439929b5cdb6dF7EbB34  
 
-Chain Id - 59463755459
-Chain Name - Bratislava
-Challenge Period Blocks #150
-Gas Token - ETH
-Batch Poster Address - 0x7f5814E1ebcAbB3BB38cA4c9eBe3EeC83321d0ca
-Validator - 0x9c91EDae3Be3EA69D8A1439929b5cdb6dF7EbB34
 
 keyset - A Keyset specifies the public keys of Committee members and the number of signatures required for a Data Availability Certificate to be valid. Keysets make Committee membership changes possible and provide Committee members the ability to change their keys.0x00000000000000010000000000000001012160000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
 
