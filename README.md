@@ -28,10 +28,14 @@ In essence, EigenDA represents a groundbreaking advancement in the storage of ro
 
 - **Chain Id:** 59463755459  
 - **Chain Name:** Bratislava  
+- **Data Avalibility:** AnyTrust 
 - **Challenge Period Blocks:** #150  
 - **Gas Token:** ETH  
 - **Batch Poster Address:** 0x7f5814E1ebcAbB3BB38cA4c9eBe3EeC83321d0ca  
 - **Validator:** 0x9c91EDae3Be3EA69D8A1439929b5cdb6dF7EbB34  
+
+By using a Data Availability Committee to keep data offchain, Arbitrum AnyTrust provides ultra-low fees. </br>
+AnyTrust settles securely on Ethereum, relying on a DAC to store and verify data, which requires only two honest parties independent of the committee size.
 
 # Contract Addresses and Configuration
 
